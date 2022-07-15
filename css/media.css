@@ -1,0 +1,146 @@
+
+@media (max-width:1117px) {
+        .main-left{
+            margin: auto;
+        }
+        .main>img{
+            margin: auto;
+            margin-top: 25px;
+        }
+        .specialists{
+            flex-wrap: wrap;
+            justify-content: center;
+        }
+        .benefits>img{
+            display: none;
+        }
+        .services-bottom{
+            justify-content: center;
+        }
+        .service-content-right{
+            margin: auto;
+        }
+        .service-content>img{
+            width: 97%;
+            margin: auto;
+            max-width: 810px;
+        }
+        .services-content{
+            justify-content: center;
+        }
+        .services>h2{
+            text-align: center;
+        }
+        .services-content>div{
+            margin-bottom: 15px;
+        }
+        .comments{
+            justify-content: center;
+            align-items: center;
+        }
+        .comments>h2{
+            text-align: center;
+        }
+        .comment-cart{
+            margin: auto;
+        }
+        .online-content{
+            justify-content: center;
+        }
+}
+@media (max-width:913px){
+    .app,.help-content{
+        justify-content: center;
+    }
+    .installetion-content>img{
+        display: none;
+    }
+}
+@media (max-width:768px){
+    .menu-dasketop{
+        display: none;
+    }
+    .container{
+        max-width: 97%;
+    }
+    header>img{
+        width: 91px;
+    }
+    .start-beset{
+        display: flex;
+    }
+    .language-sige{
+        max-width: 273px;
+    }
+    .burger-menu{
+        display: block;
+    }
+    .language-sige>.login{
+        display: none;
+    }
+    .footer-content{
+        justify-content: center;
+        text-align: center;
+    }
+    .footer-socsite,.footer-left>img,.menu-footer{
+        margin:20px  auto;
+    }
+}
+@media (max-width:603px){
+    .main-left{
+        justify-content: center;
+    }
+    .main-left>p,.main-left>h2{
+        text-align: center;
+    }
+    .main-left>a{
+        margin: auto;
+    }
+    .main>img{
+        width: 97%;
+        margin: auto;
+        margin-top: 25px;
+    } 
+    .app-description,.app-description-tex,.app-descr-button {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+    }
+    .installetion-content-left,.installetion-content-right{
+        margin: auto;
+    }
+}
+@media (max-width:581px){
+    .app>img{
+        width: 97%;
+        margin: auto;
+    }    
+    .services-cont{
+        justify-content: center;
+        text-align: center;
+        flex-wrap: wrap;
+    }
+    .install2>img{
+        display: none;
+    }
+    .comment-cart{
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
+    }
+
+}
+@media (max-width:400px){
+    .help-content>img{
+        width: 97%;
+        margin: auto;
+    }    
+    .specialists>img{
+        width: 97%;
+        margin: auto;
+    }
+    .slider-cart{
+        margin: auto;
+    }
+}
